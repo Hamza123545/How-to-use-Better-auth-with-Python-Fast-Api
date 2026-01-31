@@ -1,0 +1,9 @@
+[
+    {
+        "username": "hamza",
+        "email": "hamza@gmail.com",
+        "full_name": "Muhammad Hamza",
+        "role": "admin",
+        "hashed_password": "$2b$12$EJ0a.YR4yunFIN4OhAUl0uIHlzFKz3GPxNwlKUeFZbE4kk9GDmlPu"
+    }
+]
